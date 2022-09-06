@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a9c1dc-c7ab-460b-9197-aaaf4d4c3d17" name="Changes" comment="Hello world">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Basics.scala" afterDir="false" />
+    <list default="true" id="19a9c1dc-c7ab-460b-9197-aaaf4d4c3d17" name="Changes" comment="OOP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/OOP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/OOP.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Basics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Basics$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OOP">
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Basics" />
       <module name="CSCI_E-88_week2_study" />
@@ -61,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OOP" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OOP" />
+      <module name="CSCI_E-88_week2_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP" />
         <item itemvalue="Application.Basics" />
       </list>
     </recent_temporary>
@@ -75,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662488989938</updated>
-      <workItem from="1662488992139" duration="2486000" />
+      <workItem from="1662488992139" duration="3820000" />
     </task>
     <task id="LOCAL-00001" summary="where is this going">
       <created>1662489018126</created>
@@ -105,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662490181625</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP">
+      <created>1662491608109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662491608109</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +142,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="where is this going" />
     <MESSAGE value="Hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello world" />
+    <MESSAGE value="OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
   </component>
 </project>
