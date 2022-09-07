@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a9c1dc-c7ab-460b-9197-aaaf4d4c3d17" name="Changes" comment="case classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MapAndFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/MapAndFilter.scala" afterDir="false" />
-    </list>
+    <list default="true" id="19a9c1dc-c7ab-460b-9197-aaaf4d4c3d17" name="Changes" comment="map and filter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662488989938</updated>
-      <workItem from="1662488992139" duration="11843000" />
+      <workItem from="1662488992139" duration="12408000" />
     </task>
     <task id="LOCAL-00001" summary="where is this going">
       <created>1662489018126</created>
@@ -158,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662576746530</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="map and filter">
+      <created>1662577896870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577896870</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +185,7 @@
     <MESSAGE value="Hello world" />
     <MESSAGE value="OOP" />
     <MESSAGE value="case classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="case classes" />
+    <MESSAGE value="map and filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="map and filter" />
   </component>
 </project>
