@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a9c1dc-c7ab-460b-9197-aaaf4d4c3d17" name="Changes" comment="case classes">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CaseClassScala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/MapAndFilter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ObjectsAndCompanions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ScalaClass.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ScalaClassAndObject.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Test2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/OOP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/OOP.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/MapAndFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/MapAndFilter.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662488989938</updated>
-      <workItem from="1662488992139" duration="11093000" />
+      <workItem from="1662488992139" duration="11843000" />
     </task>
     <task id="LOCAL-00001" summary="where is this going">
       <created>1662489018126</created>
@@ -158,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662493389325</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="case classes">
+      <created>1662576746530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576746530</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -6,6 +6,8 @@ object MapAndFilter {
   def main(args: Array[String]): Unit = {
     println(lst);
     println(lst.map(_ * 2));
+
+    println(mymap.map(x => "hi" + x));
   }
 
 }
