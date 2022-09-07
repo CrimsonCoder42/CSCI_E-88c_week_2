@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a9c1dc-c7ab-460b-9197-aaaf4d4c3d17" name="Changes" comment="OOP">
+    <list default="true" id="19a9c1dc-c7ab-460b-9197-aaaf4d4c3d17" name="Changes" comment="case classes">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CaseClassScala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MapAndFilter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ObjectsAndCompanions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ScalaClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ScalaClassAndObject.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Test2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/OOP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/OOP.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Basics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Basics$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +60,37 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OOP">
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Basics" />
+  <component name="RunManager" selected="Application.MapAndFilter">
+    <configuration name="CaseClassScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CaseClassScala" />
       <module name="CSCI_E-88_week2_study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="OOP" />
+    <configuration name="MapAndFilter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MapAndFilter" />
+      <module name="CSCI_E-88_week2_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaClassAndObject" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ScalaClassAndObject" />
+      <module name="CSCI_E-88_week2_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="CSCI_E-88_week2_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="CSCI_E-88_week2_study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,8 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OOP" />
-        <item itemvalue="Application.Basics" />
+        <item itemvalue="Application.MapAndFilter" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.CaseClassScala" />
+        <item itemvalue="Application.ScalaClassAndObject" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662488989938</updated>
-      <workItem from="1662488992139" duration="3820000" />
+      <workItem from="1662488992139" duration="11093000" />
     </task>
     <task id="LOCAL-00001" summary="where is this going">
       <created>1662489018126</created>
@@ -121,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662491608109</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="case classes">
+      <created>1662493389325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662493389325</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +180,7 @@
     <MESSAGE value="where is this going" />
     <MESSAGE value="Hello world" />
     <MESSAGE value="OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
+    <MESSAGE value="case classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="case classes" />
   </component>
 </project>
